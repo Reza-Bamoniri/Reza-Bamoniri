@@ -19,7 +19,7 @@ Passionate about creating modern, responsive and user-friendly web applications.
 
 ---
 
-## 🚀 About Me
+## 🚀 `About Me`
 
 🎯 Aspiring **Front-End Developer**
 
@@ -35,7 +35,7 @@ Passionate about creating modern, responsive and user-friendly web applications.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ `Tech Stack`
 
 ### Languages & Technologies
 
@@ -57,7 +57,7 @@ Passionate about creating modern, responsive and user-friendly web applications.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 `GitHub Stats`
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Reza-Bamoniri&show_icons=true&theme=tokyonight" />
@@ -73,7 +73,7 @@ Passionate about creating modern, responsive and user-friendly web applications.
 
 ---
 
-## 📚 Current Learning Roadmap
+## 📚 `Current Learning Roadmap`
 
 - ✅ HTML
 - ✅ CSS
@@ -87,7 +87,7 @@ Passionate about creating modern, responsive and user-friendly web applications.
    
 ---
 
-## 🏆 2026 Goals
+## 🏆 `2026 Goals`
 
 - Build professional portfolio projects
 - Master React ecosystem
@@ -97,7 +97,7 @@ Passionate about creating modern, responsive and user-friendly web applications.
 
 ---
 
-## 📂 Featured Projects
+## 📂 `Featured Projects`
 
 ### 🛒 E-Commerce Website
 A responsive online store with modern UI.
@@ -112,7 +112,7 @@ Weather application using external APIs.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 `Connect With Me`
 
 <p align="center">
 
