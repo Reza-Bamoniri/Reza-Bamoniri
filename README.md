@@ -21,17 +21,17 @@ Passionate about creating modern, responsive and user-friendly web applications.
 
 ## 🚀 About Me
 
-🎯 Aspiring Front-End Developer
+🎯 Aspiring **Front-End Developer**
 
-🌱 Currently learning React.js
+🌱 Currently learning **React.js**
 
-💻 Working with HTML, CSS and JavaScript
+💻 Working with **HTML**, **CSS** and **JavaScript**
 
-📚 Constantly improving problem-solving and programming skills
+📚 Constantly improving **problem-solving** and programming skills
 
-⚡ Interested in Web Development, UI/UX and Modern JavaScript
+⚡ Interested in **Web Development**, UI/UX and **Modern JavaScript**
 
-🎯 Long-term Goal: Become a Professional Front-End Developer and expand into Back-End
+🎯 Long-term Goal: Become a **Professional Front-End Developer** and expand into Back-End
 
 ---
 
@@ -93,7 +93,7 @@ Passionate about creating modern, responsive and user-friendly web applications.
 - Master React ecosystem
 - Contribute to Open Source
 - Create a strong GitHub profile
-- Get my first Front-End Developer position
+- Get my first **Front-End Developer position**
 
 ---
 
