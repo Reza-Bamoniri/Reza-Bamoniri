@@ -40,19 +40,19 @@ Passionate about creating modern, responsive and user-friendly web applications.
 ### Languages & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,ts" />
 </p>
 
 ### Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,redux,next" />
+  <img src="https://skillicons.dev/icons?i=ts,redux,next" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
